@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "924437153247",
+    "firebase_url": "https://dracula-academia-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dracula-academia",
+    "storage_bucket": "dracula-academia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924437153247:android:ec3b61ba9de37e72cef06a",
+        "android_client_info": {
+          "package_name": "com.example.student_mini_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUaa6Kyi_Dt6nYnvSBeahXNQFuxrUfDqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
